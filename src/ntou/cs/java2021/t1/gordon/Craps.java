@@ -4,7 +4,7 @@ import java.security.SecureRandom;
 
 public class Craps {
     // constants that represent common rolls of the dice
-    private final static int SNAKE_EYES = 2;
+    private final static int SNAKE_EYES = 0;
     private final static int TREY = 3;
     private final static int SEVEN = 7;
     private final static int YO_LEVEN = 11;
