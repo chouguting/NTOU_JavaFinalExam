@@ -22,6 +22,9 @@ public class TemperatureFetcher {
         fetchAllTemperatureBundles();
     }
 
+
+
+
     public static void main(String args[]) {
         try {
 
